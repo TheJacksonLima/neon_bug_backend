@@ -17,6 +17,7 @@
  ██████╔╝╚██████╔╝╚██████╔╝
  ╚═════╝  ╚═════╝  ╚═════╝
 
+````
 
 Backend application for the **Neon Bug project**, developed with **Spring Boot** and **PostgreSQL**.
 This service is responsible for backend logic, database persistence, and REST API exposure.
