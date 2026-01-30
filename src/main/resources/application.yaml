@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: neon_bug_backend
+
+  datasource:
+    url: jdbc:postgresql://localhost:1234/postgres
+    username: postgres
+    password: senha123
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        default_schema: tutorials
+
+server:
+  port: 8181
